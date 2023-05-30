@@ -1,3 +1,3 @@
-**CIS422 Database Project: Online Game Community System**
+**Online Game Community System**
 
-Designed for MySQL 
+Code written for MySQL, creates all tables and views as well as implementing the constraints, triggers, and starting data for the database.
